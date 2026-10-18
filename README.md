@@ -1,102 +1,65 @@
-<!-- PROFILE HEADER -->
-
+```html
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:101014,50:21183B,100:7657D6&height=3" width="100%" />
-
-<br/>
-
-# Abolfazl Momeni
-
-**Frontend Developer**
-
-*Turning ideas into interfaces.*
-
-<br/>
-
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![React](https://img.shields.io/badge/React-Learning-8B7BFF?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
-
-<br/>
-
-`Less noise.` &nbsp; `More building.`
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=170&section=header&text=ABOLFAZL%20MOMENI&fontSize=38&fontColor=FFFFFF&fontAlignY=48&desc=FRONT-END%20DEVELOPER&descSize=13&descColor=B9A3FF&descAlignY=70" width="100%" />
 
 </div>
 
----
-
-<!-- SELECTED PROJECTS -->
+<h3 align="center">⌘ Tech Stack</h3>
 
 <div align="center">
 
-### SELECTED WORK
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" />
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br />
 
-<a href="https://github.com/Abolfazl-Momeni5/YOUR-REST-COUNTRIES-REPO">
-<img src="./assets/rest-countries.png" width="100%" alt="Rest Countries project preview" />
-</a>
-
-**Rest Countries**
-
-Country explorer built around a REST API.
-
-`JavaScript` `API` `CSS`
-
-[View project ↗](https://github.com/Abolfazl-Momeni5/YOUR-REST-COUNTRIES-REPO)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Abolfazl-Momeni5/YOUR-SECOND-PROJECT">
-<img src="./assets/second-project.png" width="100%" alt="JavaScript project preview" />
-</a>
-
-**JavaScript Project**
-
-A practical project built from scratch.
-
-`JavaScript` `HTML` `CSS`
-
-[View project ↗](https://github.com/Abolfazl-Momeni5/YOUR-SECOND-PROJECT)
-
-</td>
-</tr>
-</table>
-
----
+<h3 align="center">⚙️ Tools & Environment</h3>
 
 <div align="center">
 
-### TOOLS I USE
-
-<img src="https://skillicons.dev/icons?i=git,github,ps,postman&theme=dark" alt="Git, GitHub, Photoshop and Postman" />
-
-<br/><br/>
-
-<a href="https://github.com/Abolfazl-Momeni5">
-<img src="https://img.shields.io/badge/GitHub-101014?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-101014?style=flat-square&logo=linkedin&logoColor=8B7BFF" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-101014?style=flat-square&logo=gmail&logoColor=8B7BFF" alt="Email" />
-</a>
-
-<br/><br/>
-
-<sub>Designed with intention. Built one project at a time.</sub>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,figma&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7657D6,100:101014&height=3" width="100%" />
+<br />
+
+<h3 align="center">◈ Current Focus</h3>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/React-Learning-9B7BFF?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-9B7BFF?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Proficient-9B7BFF?style=flat-square&logo=tailwindcss&logoColor=white" />
+
+</div>
+
+<br />
+
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=09090B&title_color=B9A3FF&icon_color=9B7BFF&text_color=D4D4D8&ring_color=9B7BFF&include_all_commits=true" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-Momeni5&layout=compact&hide_border=true&bg_color=09090B&title_color=B9A3FF&text_color=D4D4D8" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Abolfazl-Momeni5&hide_border=true&background=09090B&ring=9B7BFF&fire=B9A3FF&currStreakLabel=B9A3FF&sideLabels=D4D4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" width="70%" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=65&section=footer" width="100%" />
+
+</div>
+```
