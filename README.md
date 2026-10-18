@@ -1,51 +1,119 @@
-# 👨‍💻 Abolfazl Momeni
 
-**FRONTEND DEVELOPER  /  STUDENT**
+<div align="center">
 
-> Turning ideas into code,  
-> one project at a time.
+  <img
+    src="./assets/night-cat-workspace.png"
+    width="100%"
+    alt="Night workspace with a cat, laptop and mountain view"
+  />
 
----
+  <br />
 
-### 🛠️ Tech Stack
+  <h1>ABOLFAZL MOMENI</h1>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <img
+    src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-0D1224?style=for-the-badge&labelColor=17132B&color=8B7BCE"
+  />
 
----
+  <br /><br />
 
-## 📁 Projects
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ps&theme=dark" />
 
-### [Rest Countries](https://github.com/Abolfazl-Momeni5)
-APIs · Search · Pagination  
+  <br /><br />
 
-### [JavaScript Projects](https://github.com/Abolfazl-Momeni5)
-Small ideas · Real code  
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6D5BA6"
+    width="85%"
+  />
 
-### [Python Exercises](https://github.com/Abolfazl-Momeni5)
-Problem solving · Fundamentals  
+</div>
 
----
+<br />
 
-## 👤 About
+<table>
+  <tr>
+    <td width="33%" valign="top">
 
-I'm a software student who loves building, learning and understanding how things work.
+      <div align="center">
+        <h3>◈ ABOUT ME</h3>
+        <img src="https://img.shields.io/badge/01-ABOUT-17132B?style=flat-square&labelColor=292044&color=8B7BCE" />
+      </div>
 
-Currently focused on frontend development.
+      <br />
 
-🟢 **Open to new opportunities**
+      Software development student with a focus on front-end development.
 
-> *Better than yesterday.*
+      <br /><br />
 
----
+      Interested in building modern interfaces, writing clean code and learning through practice.
 
-### 🔗 Connect
+    </td>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abolfazl--Momeni5-181717?style=for-the-badge&logo=github)](https://github.com/Abolfazl-Momeni5)
+    <td width="33%" valign="top">
 
----
+      <div align="center">
+        <h3>⌁ CONNECT</h3>
+        <img src="https://img.shields.io/badge/02-CONTACT-17132B?style=flat-square&labelColor=292044&color=8B7BCE" />
+      </div>
 
-*Less noise. More building.*
+      <br />
+
+      <div align="center">
+
+        <a href="https://github.com/Abolfazl-Momeni5">
+          <img src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+        </a>
+
+        <br /><br />
+
+        <a href="mailto:YOUR_EMAIL">
+          <img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
+        </a>
+
+      </div>
+
+    </td>
+
+    <td width="33%" valign="top">
+
+      <div align="center">
+        <h3>✳ MINDSET</h3>
+        <img src="https://img.shields.io/badge/03-MINDSET-17132B?style=flat-square&labelColor=292044&color=8B7BCE" />
+      </div>
+
+      <br />
+
+      <div align="center">
+
+        <i>
+          Great things are built one small improvement at a time.
+        </i>
+
+        <br /><br />
+
+        <img src="https://img.shields.io/badge/LEARN-17132B?style=flat-square&color=8B7BCE" />
+        <img src="https://img.shields.io/badge/BUILD-17132B?style=flat-square&color=8B7BCE" />
+        <img src="https://img.shields.io/badge/GROW-17132B?style=flat-square&color=8B7BCE" />
+
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6D5BA6"
+    width="85%"
+  />
+
+  <br /><br />
+
+  <sub>DESIGNED IN THE DARK · BUILT WITH CODE</sub>
+
+  <br /><br />
+
+</div>
