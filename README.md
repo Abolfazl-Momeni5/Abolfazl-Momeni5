@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=170&section=header&text=ABOLFAZL%20MOMENI&fontSize=38&fontColor=FFFFFF&fontAlignY=48&desc=FRONT-END%20DEVELOPER&descSize=13&descColor=B9A3FF&descAlignY=70" width="100%" />
@@ -62,4 +62,3 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=65&section=footer" width="100%" />
 
 </div>
-```
