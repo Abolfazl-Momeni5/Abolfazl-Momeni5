@@ -1,119 +1,66 @@
 
 <div align="center">
 
-  <img
-    src="./assets/night-cat-workspace.png"
-    width="100%"
-    alt="Night workspace with a cat, laptop and mountain view"
-  />
-
-  <br />
-
-  <h1>ABOLFAZL MOMENI</h1>
-
-  <img
-    src="https://img.shields.io/badge/FRONT--END%20DEVELOPER-0D1224?style=for-the-badge&labelColor=17132B&color=8B7BCE"
-  />
-
-  <br /><br />
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ps&theme=dark" />
-
-  <br /><br />
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6D5BA6"
-    width="85%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=170&section=header&text=ABOLFAZL%20MOMENI&fontSize=38&fontColor=FFFFFF&fontAlignY=48&desc=FRONT-END%20DEVELOPER&descSize=13&descColor=B9A3FF&descAlignY=70" width="100%" />
 
 </div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+<h3 align="center">⌘ Tech Stack</h3>
 
-      <div align="center">
-        <h3>◈ ABOUT ME</h3>
-        <img src="https://img.shields.io/badge/01-ABOUT-17132B?style=flat-square&labelColor=292044&color=8B7BCE" />
-      </div>
+<div align="center">
 
-      <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,ps&theme=dark" />
 
-      Software development student with a focus on front-end development.
+</div>
 
-      <br /><br />
+<br />
 
-      Interested in building modern interfaces, writing clean code and learning through practice.
+<h3 align="center">⚙️ Tools & Environment</h3>
 
-    </td>
+<div align="center">
 
-    <td width="33%" valign="top">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,figma,postman&theme=dark" />
 
-      <div align="center">
-        <h3>⌁ CONNECT</h3>
-        <img src="https://img.shields.io/badge/02-CONTACT-17132B?style=flat-square&labelColor=292044&color=8B7BCE" />
-      </div>
+</div>
 
-      <br />
+<br />
 
-      <div align="center">
+<h3 align="center">◈ Current Focus</h3>
 
-        <a href="https://github.com/Abolfazl-Momeni5">
-          <img src="https://img.shields.io/badge/GitHub-101426?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-        </a>
+<div align="center">
 
-        <br /><br />
+  <img src="https://img.shields.io/badge/React-Learning-9B7BFF?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Proficient-9B7BFF?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Proficient-9B7BFF?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-        <a href="mailto:YOUR_EMAIL">
-          <img src="https://img.shields.io/badge/Email-101426?style=for-the-badge&logo=gmail&logoColor=C4B5FD" />
-        </a>
+</div>
 
-      </div>
+<br />
 
-    </td>
+<h3 align="center">📊 GitHub Statistics</h3>
 
-    <td width="33%" valign="top">
+<div align="center">
 
-      <div align="center">
-        <h3>✳ MINDSET</h3>
-        <img src="https://img.shields.io/badge/03-MINDSET-17132B?style=flat-square&labelColor=292044&color=8B7BCE" />
-      </div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=09090B&title_color=B9A3FF&icon_color=9B7BFF&text_color=D4D4D8&ring_color=9B7BFF&include_all_commits=true" />
 
-      <br />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-Momeni5&layout=compact&hide_border=true&bg_color=09090B&title_color=B9A3FF&text_color=D4D4D8" />
 
-      <div align="center">
-
-        <i>
-          Great things are built one small improvement at a time.
-        </i>
-
-        <br /><br />
-
-        <img src="https://img.shields.io/badge/LEARN-17132B?style=flat-square&color=8B7BCE" />
-        <img src="https://img.shields.io/badge/BUILD-17132B?style=flat-square&color=8B7BCE" />
-        <img src="https://img.shields.io/badge/GROW-17132B?style=flat-square&color=8B7BCE" />
-
-      </div>
-
-    </td>
-  </tr>
-</table>
+</div>
 
 <br />
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6D5BA6"
-    width="85%"
-  />
+  <img src="https://streak-stats.demolab.com?user=Abolfazl-Momeni5&hide_border=true&background=09090B&ring=9B7BFF&fire=B9A3FF&currStreakLabel=B9A3FF&sideLabels=D4D4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" width="70%" />
 
-  <br /><br />
+</div>
 
-  <sub>DESIGNED IN THE DARK · BUILT WITH CODE</sub>
+<br />
 
-  <br /><br />
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=65&section=footer" width="100%" />
 
 </div>
