@@ -1,64 +1,51 @@
+# 👨‍💻 Abolfazl Momeni
 
-<div align="center">
+**FRONTEND DEVELOPER  /  STUDENT**
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=170&section=header&text=ABOLFAZL%20MOMENI&fontSize=38&fontColor=FFFFFF&fontAlignY=48&desc=FRONT-END%20DEVELOPER&descSize=13&descColor=B9A3FF&descAlignY=70" width="100%" />
+> Turning ideas into code,  
+> one project at a time.
 
-</div>
+---
 
-<h3 align="center">⌘ Tech Stack</h3>
+### 🛠️ Tech Stack
 
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react&theme=dark" />
+---
 
-</div>
+## 📁 Projects
 
-<br />
+### [Rest Countries](https://github.com/Abolfazl-Momeni5)
+APIs · Search · Pagination  
 
-<h3 align="center">⚙️ Tools & Environment</h3>
+### [JavaScript Projects](https://github.com/Abolfazl-Momeni5)
+Small ideas · Real code  
 
-<div align="center">
+### [Python Exercises](https://github.com/Abolfazl-Momeni5)
+Problem solving · Fundamentals  
 
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,figma&theme=dark" />
+---
 
-</div>
+## 👤 About
 
-<br />
+I'm a software student who loves building, learning and understanding how things work.
 
-<h3 align="center">◈ Current Focus</h3>
+Currently focused on frontend development.
 
-<div align="center">
+🟢 **Open to new opportunities**
 
-  <img src="https://img.shields.io/badge/React-Learning-9B7BFF?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-9B7BFF?style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-Proficient-9B7BFF?style=flat-square&logo=tailwindcss&logoColor=white" />
+> *Better than yesterday.*
 
-</div>
+---
 
-<br />
+### 🔗 Connect
 
-<h3 align="center">📊 GitHub Statistics</h3>
+[![GitHub](https://img.shields.io/badge/GitHub-Abolfazl--Momeni5-181717?style=for-the-badge&logo=github)](https://github.com/Abolfazl-Momeni5)
 
-<div align="center">
+---
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=09090B&title_color=B9A3FF&icon_color=9B7BFF&text_color=D4D4D8&ring_color=9B7BFF&include_all_commits=true" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-Momeni5&layout=compact&hide_border=true&bg_color=09090B&title_color=B9A3FF&text_color=D4D4D8" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Abolfazl-Momeni5&hide_border=true&background=09090B&ring=9B7BFF&fire=B9A3FF&currStreakLabel=B9A3FF&sideLabels=D4D4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" width="70%" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,50:24143D,100:09090B&height=65&section=footer" width="100%" />
-
-</div>
+*Less noise. More building.*
