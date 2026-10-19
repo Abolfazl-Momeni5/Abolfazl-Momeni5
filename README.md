@@ -3,10 +3,12 @@
 </p>
 <br/>
 <div>
-# Hi, I'm Abolfazl 👋
+  
+### Frontend Developer in Progress😉
+Software Development student.
+focused on building modern web interfaces and improving my frontend development skills.😅
+<hr/>
 
-### Frontend Developer in Progress
-Software Development student focused on building modern web interfaces and improving my frontend development skills.😅
 ## Language And Tools
 
 <p align="left">
