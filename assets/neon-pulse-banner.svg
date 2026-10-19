@@ -94,35 +94,35 @@
   <g font-family="'JetBrains Mono', monospace" font-size="11" letter-spacing="2">
     <g transform="translate(80,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">react</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">HTML</text>
     </g>
     <g transform="translate(176,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">typescript</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">CSS</text>
     </g>
     <g transform="translate(272,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">webgl</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">JAVASCRIPT</text>
     </g>
     <g transform="translate(368,238)">
       <rect width="86" height="26" rx="13" fill="none" stroke="#4b3a8f" stroke-width="0.8"/>
-      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">motion</text>
+      <text x="43" y="17" text-anchor="middle" fill="#c9b8ff">REACT</text>
     </g>
   </g>
 
   <!-- Status. The old line read "OSC 9Hz · LATENCY 12ms", which is instrument
        data this file does not have; it says what the template actually gives
        you instead. -->
-  <g transform="translate(80,388)" font-family="'JetBrains Mono', monospace" font-size="10" letter-spacing="3" fill="#a78bfa">
+  <g transform="translate(80,388)" font-family="'JetBrains Mono', monospace" font-size="12.5" letter-spacing="3" fill="#a78bfa">
     <circle cx="6" cy="-3" r="3.5" fill="#00d9ff">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
     </circle>
-    <text x="20" y="0">ONE FILE · NO SERVICES · NOTHING TO RATE-LIMIT</text>
+    <text x="20" y="0">welcome to my github profile...</text>
   </g>
 
   <!-- Top corner mark -->
-  <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="3" fill="#7c5cff" text-anchor="end">
-    <text x="-22" y="0">hello everyone</text>
+  <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="12.5" letter-spacing="3" fill="#7c5cff" text-anchor="end">
+    <text x="-22" y="0">Hello Everyone👋</text>
     <line x1="-14" y1="-4" x2="0" y2="-4" stroke="#7c5cff" stroke-width="0.5"/>
   </g>
 </svg>
