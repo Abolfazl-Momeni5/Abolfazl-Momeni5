@@ -4,7 +4,7 @@
 <br/>
 <div>
   
-### Frontend Developer in Progress😉
+## Frontend Developer in Progress
 Software Development student.
 focused on building modern web interfaces and improving my frontend development skills.😅
 <hr/>
