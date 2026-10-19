@@ -1,18 +1,35 @@
 <p align="center">
-  <img src="./assets/neon-pulse-banner.svg" alt="{{name}} — {{tagline}}" width="100%" />
+  <img src="./assets/neon-pulse-banner.svg" alt="Abolfazl — Frontend Developer" width="100%" />
 </p>
+
 <br/>
-<div>
-  
-## Frontend Developer in Progress
-Software Development student.
-focused on building modern web interfaces and improving my frontend development skills.😅
+
+### Frontend Developer in Progress 😉
+
+Software Development student.  
+Focused on building modern web interfaces and improving my frontend development skills.
+
 <hr/>
 
 ## Language And Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode,postman,figma,ps,npm,chrome&theme=dark" alt="Languages and Tools" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-Momeni5&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    alt="Top Languages"
+  />
 </p>
 
 ## Connect With Me
