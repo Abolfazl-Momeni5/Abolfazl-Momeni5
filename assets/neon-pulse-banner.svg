@@ -81,11 +81,11 @@
 
   <!-- Headline -->
   <g font-family="'Space Grotesk', 'Neue Haas Grotesk', system-ui, sans-serif">
-    <text x="80" y="180" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">JANE DOE</text>
-    <text x="80" y="180" font-size="76" font-weight="800" fill="url(#np-spectrum)" letter-spacing="-2" filter="url(#np-glow)" opacity="0.8">JANE DOE</text>
+    <text x="80" y="180" font-size="76" font-weight="800" fill="#ffffff" letter-spacing="-2">Abolfazl Momeni</text>
+    <text x="80" y="180" font-size="76" font-weight="800" fill="url(#np-spectrum)" letter-spacing="-2" filter="url(#np-glow)" opacity="0.8">Abolfazl Momeni</text>
   </g>
 
-  <text x="82" y="214" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00d9ff" letter-spacing="6">FRONTEND · MOTION · WEBGL</text>
+  <text x="82" y="214" font-family="'JetBrains Mono', monospace" font-size="13" fill="#00d9ff" letter-spacing="6">JUNIOR FRONTEND DEVELOPER </text>
 
   <!-- Tag chips. All four share one quiet border: four chips cycling three
        neon colours read as a carnival next to a spectrum that is already the
@@ -122,7 +122,7 @@
 
   <!-- Top corner mark -->
   <g transform="translate(1120,40)" font-family="'JetBrains Mono', monospace" font-size="9" letter-spacing="3" fill="#7c5cff" text-anchor="end">
-    <text x="-22" y="0">N° MMXXVI / PULSE.04</text>
+    <text x="-22" y="0">hello everyone</text>
     <line x1="-14" y1="-4" x2="0" y2="-4" stroke="#7c5cff" stroke-width="0.5"/>
   </g>
 </svg>
