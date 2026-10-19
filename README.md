@@ -11,15 +11,16 @@ Focused on building modern web interfaces and improving my frontend development 
 
 <hr/>
 
-## Language And Tools
+### Language And Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,vscode,postman,figma,ps,npm,chrome&theme=dark" alt="Languages and Tools" />
 </p>
+<hr/>
 
-## GitHub Stats
+### GitHub Stats
 
-<p align="center">
+<p align="left">
   <img
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
@@ -31,8 +32,9 @@ Focused on building modern web interfaces and improving my frontend development 
     alt="Top Languages"
   />
 </p>
+<hr/>
 
-## Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://t.me/abolfazlam5">
