@@ -43,6 +43,4 @@ Focused on building modern web interfaces and improving my frontend development 
   <a href="https://instagram.com/abolfazlam5_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
- 
-![Gmail](https://img.shields.io/badge/a.momeni0101@gmail.com ?style=flat&logo=gmail&logoColor=white)
 </p>
