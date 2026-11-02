@@ -43,7 +43,6 @@ Focused on building modern web interfaces and improving my frontend development 
   <a href="https://instagram.com/abolfazlam5_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="tel:+989304941547">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
-  </a>
+ 
+![Gmail](https://img.shields.io/badge/a.momeni0101@gmail.com ?style=flat&logo=gmail&logoColor=white)
 </p>
