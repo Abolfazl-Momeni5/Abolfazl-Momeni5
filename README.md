@@ -20,18 +20,22 @@ Focused on building modern web interfaces and improving my frontend development 
 
 ### GitHub Stats
 
+### GitHub Stats
+
 <p align="left">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=Abolfazl-Momeni5&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazl-Momeni5&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abolfazl-Momeni5&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"
     alt="Top Languages"
   />
 </p>
+
+<hr/>
 <hr/>
 
 ### Connect With Me
