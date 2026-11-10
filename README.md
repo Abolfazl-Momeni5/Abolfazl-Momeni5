@@ -20,8 +20,6 @@ Focused on building modern web interfaces and improving my frontend development 
 
 ### GitHub Stats
 
-### GitHub Stats
-
 <p align="left">
   <img
     height="165"
